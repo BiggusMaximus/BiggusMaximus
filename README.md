@@ -21,6 +21,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> 
+  </a>
  </p>
 
 <div style="display: flex; flex-direction: row;" align="center">
