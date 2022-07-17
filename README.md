@@ -49,7 +49,7 @@ Systems.
  </p>
 
 <div style="display: flex; flex-direction: row;" align="left">
- <img class="img" align="left" src="https://github-readme-stats.vercel.app/api?username=BiggusMaximus&show_icons=true&theme=radical" />
+ <img class="img" align="left" src="https://github-readme-stats.vercel.app/api?username=BiggusMaximus&show_icons=true&theme=radical" height="10" />
 </div>
 
 
