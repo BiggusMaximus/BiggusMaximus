@@ -24,6 +24,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> 
+  </a>
  </p>
 
 <div style="display: flex; flex-direction: row;" align="center">
