@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Annastya Bagas Dewantara</h1>
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-AnnastyaBagasD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annastyabagasd/)](https://www.linkedin.com/in/annastyabagasd/)
+<h1 align="center">Hi 👋, I'm Annastya Bagas Dewantara</h1>
 
 <h3 align="center">A passionate Machine Learning and IoT Enthusiast </h3>
 
