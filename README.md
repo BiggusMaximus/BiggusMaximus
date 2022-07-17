@@ -5,8 +5,8 @@ using various frameworks. I have experience operating databases, processing data
 integrating IoT systems, and deploying machine learning models into Web, Android, and Embedded
 Systems.
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
