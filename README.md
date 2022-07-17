@@ -27,6 +27,21 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="" alt="keras" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="" alt="keras" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="" alt="keras" width="40" height="40"/> 
+  </a>
  </p>
 
 <div style="display: flex; flex-direction: row;" align="center">
