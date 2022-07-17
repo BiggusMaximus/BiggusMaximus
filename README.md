@@ -16,7 +16,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://hadipranoto.com/wp-content/uploads/2020/08/1200px-Python-logo-notext.svg_.png" alt="python" width="40" height="40"/> 
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
   </a> 
  </p>
 
