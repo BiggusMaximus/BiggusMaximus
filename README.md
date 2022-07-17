@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Annastya Bagas Dewantara</h1>
 <h3 align="center">A passionate Machine Learning and IoT Enthusiast </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h2 align="ceter">Languages and Tools:</h2>
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
