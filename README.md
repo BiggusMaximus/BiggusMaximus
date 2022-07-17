@@ -30,8 +30,11 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiggusMaximus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)" alt="stats" />
  </p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 
