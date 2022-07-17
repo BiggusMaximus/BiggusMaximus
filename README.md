@@ -32,7 +32,7 @@
   </a> 
  </p>
 
-<div style="display: flex; flex-direction: row; align: center;">
+<div style="display: flex; flex-direction: row;" align="center">
  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=BiggusMaximus&show_icons=true&theme=radical" />
 </div>
 
